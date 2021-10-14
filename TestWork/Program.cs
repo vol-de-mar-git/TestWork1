@@ -23,7 +23,7 @@ namespace TestWork
             {
                 foreach (var day in days)
                 {
-                    streamWriter.WriteLineAsync($"In {day.Key} Max: {day.Max(a => (a.Split(',')[5]))}" +
+                    streamWriter.WriteLine($"In {day.Key} Max: {day.Max(a => (a.Split(',')[5]))}" +
                                            $"Min: {day.Min(a => (a.Split(',')[6]))}");
                 }
             }
