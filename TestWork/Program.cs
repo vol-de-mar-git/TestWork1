@@ -21,10 +21,9 @@ namespace TestWork
 
             using (StreamWriter streamWriter = new StreamWriter(pathDays))
             {
-                int d = 0;
                 foreach (var day in days)
                 {
-                    streamWriter.WriteLine($"In {day.Key} Max: {day.Max(a => (a.Split(',')[5]))}" +
+                    streamWriter.WriteLineAsync($"In {day.Key} Max: {day.Max(a => (a.Split(',')[5]))}" +
                                            $"Min: {day.Min(a => (a.Split(',')[6]))}");
                 }
             }
@@ -37,7 +36,7 @@ namespace TestWork
 
             var hours = new Parser().Hour(pathStocks);
             
-            File.WriteAllLines(pathHours,hours);
+            File.WriteAllLinesAsync(pathHours,hours);
             
             #endregion
 
@@ -54,9 +53,9 @@ namespace TestWork
                                                                 out IEnumerable<string> lostStrings,
                                                                 out IEnumerable<string> allStrings);
             
-            File.WriteAllLines(pathNewStrings,newStrings);
-            File.WriteAllLines(pathLostStrings,lostStrings);
-            File.WriteAllLines(pathAllStrings,allStrings);
+            File.WriteAllLinesAsync(pathNewStrings,newStrings);
+            File.WriteAllLinesAsync(pathLostStrings,lostStrings);
+            File.WriteAllLinesAsync(pathAllStrings,allStrings);
 
             #endregion
 
