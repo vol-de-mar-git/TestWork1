@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZGh8syX/xfmEpeRPVV78oQHy0p1D1elToGdhp/n1Z6vxNx48lzIkkb6MZ/f1Wk8MMumKp3MNwTm/FXOLZR5gzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Voldemar Workplace\\Desktop\\TestWork\\TestWork\\TestWork.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Voldemar Workplace\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.19\\microsoft.netcore.app.host.win-x64.3.1.19.nupkg.sha512"
+  ],
+  "logs": []
+}

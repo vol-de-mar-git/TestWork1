@@ -1,0 +1,17 @@
+C:\Users\Voldemar Workplace\Desktop\TestWork\TestWork\bin\Debug\netcoreapp3.1\TestWork.exe
+C:\Users\Voldemar Workplace\Desktop\TestWork\TestWork\bin\Debug\netcoreapp3.1\TestWork.deps.json
+C:\Users\Voldemar Workplace\Desktop\TestWork\TestWork\bin\Debug\netcoreapp3.1\TestWork.runtimeconfig.json
+C:\Users\Voldemar Workplace\Desktop\TestWork\TestWork\bin\Debug\netcoreapp3.1\TestWork.runtimeconfig.dev.json
+C:\Users\Voldemar Workplace\Desktop\TestWork\TestWork\bin\Debug\netcoreapp3.1\TestWork.dll
+C:\Users\Voldemar Workplace\Desktop\TestWork\TestWork\bin\Debug\netcoreapp3.1\TestWork.pdb
+C:\Users\Voldemar Workplace\Desktop\TestWork\TestWork\obj\Debug\netcoreapp3.1\TestWork.csproj.AssemblyReference.cache
+C:\Users\Voldemar Workplace\Desktop\TestWork\TestWork\obj\Debug\netcoreapp3.1\TestWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Voldemar Workplace\Desktop\TestWork\TestWork\obj\Debug\netcoreapp3.1\TestWork.AssemblyInfoInputs.cache
+C:\Users\Voldemar Workplace\Desktop\TestWork\TestWork\obj\Debug\netcoreapp3.1\TestWork.AssemblyInfo.cs
+C:\Users\Voldemar Workplace\Desktop\TestWork\TestWork\obj\Debug\netcoreapp3.1\TestWork.csproj.CoreCompileInputs.cache
+C:\Users\Voldemar Workplace\Desktop\TestWork\TestWork\obj\Debug\netcoreapp3.1\TestWork.dll
+C:\Users\Voldemar Workplace\Desktop\TestWork\TestWork\obj\Debug\netcoreapp3.1\TestWork.pdb
+C:\Users\Voldemar Workplace\Desktop\TestWork\TestWork\obj\Debug\netcoreapp3.1\TestWork.genruntimeconfig.cache
+C:\Users\Voldemar Workplace\Desktop\TestWork\TestWork\bin\Debug\netcoreapp3.1\Files\Stocks.txt
+C:\Users\Voldemar Workplace\Desktop\TestWork\TestWork\bin\Debug\netcoreapp3.1\Files\file1.txt
+C:\Users\Voldemar Workplace\Desktop\TestWork\TestWork\bin\Debug\netcoreapp3.1\Files\file2.txt
